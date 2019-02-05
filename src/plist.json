@@ -1,0 +1,83 @@
+[
+   {
+      "id":"0011",
+	   "name":"Apple",
+      "price":"3,99",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed eirmod tempor invidunt.",
+      "image":"apple.jpg",
+      "url":"https://www.google.com/search?q=applefruit"
+   },
+     {
+      "id":"0012",
+      "name":"Banana",
+      "price":"1,99",
+      "description":"Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+      "image":"banana.jpg",
+      "url":"https://www.google.com/search?q=banana"
+   },
+   {
+      "id":"0013",
+      "name":"Watermelon",
+      "price":"1,50",
+      "description":"At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no amet.",
+      "image":"watermelon.png",
+      "url":"https://www.google.com/search?q=watermelon"
+   },
+   {
+      "id":"0014",
+      "name":"Strawberry",
+      "price":"7,99",
+      "description":"Stet clita kasd gubergren, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+      "image":"strawberry.jpg",
+      "url":"https://www.google.com/search?q=strawberry"
+   },
+   {
+      "id":"0015",
+      "name":"Mango",
+      "price":"4,99",
+      "description":"Labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "image":"mango.jpg",
+      "url":"#"
+   },
+   {
+      "id":"0016",
+      "name":"Lemon",
+      "price":"2,00",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+      "image":"lemon.png",
+      "url":"#"
+   },
+   {
+      "id":"0017",
+      "name":"Ananas",
+      "price":"6,50",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+      "image":"ananas.png",
+      "url":"#"
+   },
+   
+   {
+      "id":"0018",
+      "name":"Potato",
+      "price":"1,50",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr eirmod.",
+      "image":"potato.png",
+      "url":"#"
+   },
+   {
+      "id":"0019",
+      "name":"Orange",
+      "price":"2,50",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr eirmod.",
+      "image":"orange.png",
+      "url":"#"
+   },
+   {
+      "id":"0020",
+      "name":"Coconut",
+      "price":"5,50",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+      "image":"coconut.png",
+      "url":"#"
+   }
+]
