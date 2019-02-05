@@ -1,3 +1,8 @@
+
+<strong>SEE IT IN ACTION (Better with Google Chrome)</strong> <g-emoji class="g-emoji" alias="arrow_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png"><img class="emoji" alt="arrow_right" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png"></g-emoji> https://rahman23.github.io/demostore/
+<br>
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
