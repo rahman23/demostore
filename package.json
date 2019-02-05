@@ -2,7 +2,7 @@
   "name": "storedemo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rahman23.github.io/demostore",
+  "homepage": "http://rahman23.github.io/demostore/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1",
